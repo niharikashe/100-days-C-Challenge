@@ -1,4 +1,4 @@
-Read a text file and count how many vowels and consonants are in the file. Ignore digits and special characters.
+Q128: Read a text file and count how many vowels and consonants are in the file. Ignore digits and special characters.
 #include <stdio.h>
 #include <ctype.h>  // for tolower() and isalpha()
 
