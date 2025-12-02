@@ -8,7 +8,6 @@ int main() {
     printf("Enter two numbers: ");
     scanf("%d %d", &a, &b);
 
-    // swapping without third variable
     a = a + b;
     b = a - b;
     a = a - b;
