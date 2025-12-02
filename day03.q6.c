@@ -8,7 +8,6 @@ int main() {
     printf("Enter two numbers: ");
     scanf("%d %d", &a, &b);
 
-    // swapping using temp
     temp = a;
     a = b;
     b = temp;
