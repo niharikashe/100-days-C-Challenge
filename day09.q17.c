@@ -15,7 +15,6 @@ int main() {
         printf("Roots are real and different: %.0f, %.0f\n", root1, root2);
     }
     else if (discriminant == 0) {
-        // real and same root
         root1 = -b / (2 * a);
         printf("Roots are real and same: %.0f\n", root1);
     }
