@@ -1,5 +1,4 @@
 Q14: Write a program to input a character and check whether it is a vowel or consonant using if–else.
-  // Program to check whether a character is a vowel or consonant
 #include <stdio.h>
 
 int main() {
